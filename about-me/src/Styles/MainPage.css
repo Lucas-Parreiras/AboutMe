@@ -1,0 +1,20 @@
+.main-page {
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+}
+
+.aside-comp {
+  display: flex;
+  width: 20%;
+  /* border: 1px solid red; */
+  justify-content: center;
+  background-color: rgb(151, 30, 30);
+  text-align: center;
+}
+
+.main-section {
+  width: 78%;
+  /* border: 1px solid blue; */
+  text-align: center;
+}
